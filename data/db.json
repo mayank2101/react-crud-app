@@ -1,0 +1,39 @@
+{
+  "Items": [
+    {
+      "name": "Mayank",
+      "company": "Microsoft",
+      "design": "FullStack Developer",
+      "address": "Indore",
+      "id": 1
+    },
+    {
+      "name": "Shivam",
+      "company": "TCS",
+      "design": "Front End Developer",
+      "address": "nagpur",
+      "id": 2
+    },
+    {
+      "name": "Manoj",
+      "company": "deloitte",
+      "design": "ui dev",
+      "address": "delhi",
+      "id": 4
+    },
+    {
+      "name": "Santosh",
+      "company": "adobe",
+      "design": "sde-2",
+      "address": "Jabalpur",
+      "id": 5
+    },
+    {
+      "name": "Manoj",
+      "company": "TCS",
+      "design": "Analyst",
+      "address": "London",
+      "id": 6
+    }
+  ]
+}
