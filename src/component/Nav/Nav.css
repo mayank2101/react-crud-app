@@ -1,0 +1,39 @@
+
+.navbar{
+    background-color: rgb(21, 10, 59);
+    width: 100%;
+}
+
+.navbar-brand
+{
+    color: aliceblue;
+    padding-left: 20px;
+    letter-spacing: 2px;
+
+}
+.navbar-brand:hover{
+    color: yellow;
+}
+.nav-link :hover{
+    color: yellow;
+}
+.nav-link{
+    color: white;
+    text-transform: uppercase;   
+}
+a{
+    text-decoration: none;
+}
+.nav-item{
+    padding-top: 4px;
+    padding-left: 1300px;
+}
+
+
+.add{
+    
+}
+.btn{
+    width: 100px;
+    
+}
